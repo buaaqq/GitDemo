@@ -15,6 +15,9 @@ class Solution:
         else:
             return y
 
+    def PracticeNewBranch(self):
+        pass
+
 if __name__ =="__main__":
     x = 123
     y = Solution().reverse(x)
